@@ -4,3 +4,14 @@
 Reconstructing specifically based on localities in December 1917(``1917-12-31``).
 
 In October 1917(``1917-10-01``), the area of some urban localities were shrinked, to make them cover only urban areas. In addition to that, lots of localities with generic names had been renamed to the names of their main towns or villages, i.e. the seats of localities.
+
+Note (참고)
+==============
+Note that the below changes that can be observed from the Topographic Map (c. 1910-1920) are after 1918:
+
+아래는 1910년대 지형도에서 확인 가능하지만 1918년 이후의 구역 변동임:
+
+* 黃海道 海州郡 秋伊面 + 花陽面 → 秋花面 (``1918-04-01``)
+* 黃海道 黃州郡 松林面 → 松林面 + 兼二浦面 (``1919-04-01``)
+* 江原道 杆城郡 → 高城郡; 杆城郡 → 襄陽郡 竹旺面·土城面; 通川郡 臨南面 → 高城郡 新北面 長箭里·注驗里·沙湖里·南涯里 (``1919-05-15``)
+* 江原道 江陵郡 德方面 + 城南面 → 城德面 (``1920-11-01``)
