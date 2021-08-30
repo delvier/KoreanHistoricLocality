@@ -26,3 +26,7 @@ Sources
  * https://stanford.maps.arcgis.com/apps/SimpleViewer/index.html?appid=014420d2797242afadc95eeb8c8233da
  * https://stanford.maps.arcgis.com/apps/SimpleViewer/index.html?appid=ab4fca3d9d4145e2a5e2fa25deab88b1
  * https://stanford.maps.arcgis.com/apps/SimpleViewer/index.html?appid=4e53e4e0b8f142b7a4cca26ccf2e701a
+* 朝鮮總督府. 官報. (1910-1945)
+* 朝鮮總督府. 地方行政區域名稱一覽. (1912)
+* 朝鮮總督府. 地方行政區域名稱臺帳. (1924-1925)
+* 越智唯七. (新舊對照)地方行政區域名稱一覽. (1917)
