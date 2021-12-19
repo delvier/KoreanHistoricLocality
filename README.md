@@ -24,12 +24,12 @@ Sources
 =======
 
 * Chōsen 1:50000 Topographic Map (c. 1910-1920). (own by Jongno Library / 종로도서관 소장)
- * http://db.history.go.kr/item/level.do?itemId=jnm
+    * http://db.history.go.kr/item/level.do?itemId=jnm
 * Chōsen 1:50000 Topographic Map (c. 1910-1920). (own by Stanford University libraries / 스탠퍼드 대학 소장)
- * https://stanford.maps.arcgis.com/apps/SimpleViewer/index.html?appid=95ae850e3e634494bb1ff58ee7b66866
- * https://stanford.maps.arcgis.com/apps/SimpleViewer/index.html?appid=014420d2797242afadc95eeb8c8233da
- * https://stanford.maps.arcgis.com/apps/SimpleViewer/index.html?appid=ab4fca3d9d4145e2a5e2fa25deab88b1
- * https://stanford.maps.arcgis.com/apps/SimpleViewer/index.html?appid=4e53e4e0b8f142b7a4cca26ccf2e701a
+    * https://stanford.maps.arcgis.com/apps/SimpleViewer/index.html?appid=95ae850e3e634494bb1ff58ee7b66866
+    * https://stanford.maps.arcgis.com/apps/SimpleViewer/index.html?appid=014420d2797242afadc95eeb8c8233da
+    * https://stanford.maps.arcgis.com/apps/SimpleViewer/index.html?appid=ab4fca3d9d4145e2a5e2fa25deab88b1
+    * https://stanford.maps.arcgis.com/apps/SimpleViewer/index.html?appid=4e53e4e0b8f142b7a4cca26ccf2e701a
 * 朝鮮總督府. 官報. (1910-1945)
 * 朝鮮總督府. 地方行政區域名稱一覽. (1912)
 * 朝鮮總督府. 地方行政區域名稱臺帳. (1924-1925)
